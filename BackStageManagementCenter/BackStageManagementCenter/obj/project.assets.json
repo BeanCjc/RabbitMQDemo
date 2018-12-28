@@ -12983,11 +12983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BackStageManagementCenter\\BackStageManagementCenter\\BackStageManagementCenter.csproj",
+      "projectUniqueName": "D:\\Study\\RabbitMQDemo\\BackStageManagementCenter\\BackStageManagementCenter\\BackStageManagementCenter.csproj",
       "projectName": "BackStageManagementCenter",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\BackStageManagementCenter\\BackStageManagementCenter\\BackStageManagementCenter.csproj",
+      "projectPath": "D:\\Study\\RabbitMQDemo\\BackStageManagementCenter\\BackStageManagementCenter\\BackStageManagementCenter.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\BackStageManagementCenter\\BackStageManagementCenter\\obj\\",
+      "outputPath": "D:\\Study\\RabbitMQDemo\\BackStageManagementCenter\\BackStageManagementCenter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
