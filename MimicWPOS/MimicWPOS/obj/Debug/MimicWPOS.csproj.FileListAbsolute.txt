@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\MimicWPOS.exe.config
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\MimicWPOS.exe
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\MimicWPOS.pdb
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.Form1.resources
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.exe
+C:\Users\Administrator\source\repos\MimicWPOS\MimicWPOS\obj\Debug\MimicWPOS.pdb
