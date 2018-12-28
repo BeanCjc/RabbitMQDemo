@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\StorageModeDemo\\StorageModeDemo.Repository\\StorageModeDemo.Repository.csproj",
+      "projectUniqueName": "D:\\Study\\RabbitMQDemo\\StorageModeDemo\\StorageModeDemo.Repository\\StorageModeDemo.Repository.csproj",
       "projectName": "StorageModeDemo.Repository",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\StorageModeDemo\\StorageModeDemo.Repository\\StorageModeDemo.Repository.csproj",
+      "projectPath": "D:\\Study\\RabbitMQDemo\\StorageModeDemo\\StorageModeDemo.Repository\\StorageModeDemo.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\StorageModeDemo\\StorageModeDemo.Repository\\obj\\",
+      "outputPath": "D:\\Study\\RabbitMQDemo\\StorageModeDemo\\StorageModeDemo.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

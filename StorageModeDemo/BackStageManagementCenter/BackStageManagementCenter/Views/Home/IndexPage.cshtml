@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2><br />
+<form action="/SendMessage" method="post">
+    <input type="text" name="message" />
+    <input type="submit" value="sendmessage" />
+</form><br /><br />
+<textarea>@ViewData["message"]</textarea>
+
